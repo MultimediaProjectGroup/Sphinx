@@ -17,3 +17,4 @@ http://zuoshu.iteye.com/blog/1463867
 
 关于记录手势gesture
 http://stackoverflow.com/questions/13428806/recording-playback-gesture-in-android
+http://blog.csdn.net/alex0203/article/details/7028583
