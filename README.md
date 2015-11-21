@@ -3,6 +3,7 @@ Sphinx Test
 
 
 Reference
+Sphinx教程:http://cmusphinx.sourceforge.net/wiki/tutorial
 
 https://github.com/HelloSpoon/PocketSphinx_Sample
 
