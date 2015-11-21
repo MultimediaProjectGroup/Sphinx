@@ -6,7 +6,7 @@ Reference
 
 https://github.com/HelloSpoon/PocketSphinx_Sample
 
-http://4byte.cn/question/2301262/recognizing-multiple-keywords-using-pocketsphinx.html
+http://stackoverflow.com/questions/25748113/recognizing-multiple-keywords-using-pocketsphinx
 
 另外做语音控制的用的代码，python
 https://github.com/worldveil/dejavu
